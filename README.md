@@ -1,8 +1,5 @@
 # MiSaeng Groupware
 
-#### msgroupware.na.to   
-AWS를 사용해 도메인주소 배포
-
 #### 개요
 인사관리, 휴가관리, 전자문서&결재, 게시판, 채팅, 일정관리, 예약관리 구현 
 
@@ -17,16 +14,18 @@ Oracle 11g
 아이디 : admin    
 비밀번호 : 1234
 #### 일반사원 계정
-아이디 : jminhee
+아이디 : jminhee    
 비밀번호 : 1234
 
-####데이터베이스 계정
-아이디 : msgAdmin
+#### 데이터베이스 계정
+아이디 : msgAdmin    
 비밀번호 : 4r3e2w1q!!
 
-####사이트 접속 방법
- http://localhost:9090/msg/
- 크롬을 사용하여 접속 추천
+#### 사이트 접속 방법
+ * http://localhost:9090/msg/    
+   크롬을 사용하여 접속 추천
+ * http://msgroupware.na.to
+   AWS를 사용하여 도메인 배포
  
  
  #### 사이트 안내
